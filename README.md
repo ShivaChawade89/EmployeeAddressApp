@@ -1,13 +1,13 @@
 # EmployeeAddressApp
 
-FRAMEWORK  USED
+# FramewarkUsed
 
      In this application i have used springboot framework 
      
-LANGUAGES USED
+# LanguagesUsed 
      i have used java lalguage for this project
 
-DATA FLOW 
+#DATA FLOW 
      EmployeeController:
                GET /employees - get all employees
                GET /employees/{id} - get an employee by id
@@ -24,10 +24,10 @@ DATA FLOW
      all the  respected ethods will be called  and 
      finally the response will returned to the user
      
-DATA STRUCTURE 
+#DATA STRUCTURE 
      i have used MySQL database to store the employees and their addresses details.
    
-SUMMERY
+#SUMMERY
       this application is basically designed for managing the employees and their addresses and prerform CRUD operations on them .
        this application is for create a one-to-one mapping between Employee and Address:
 
